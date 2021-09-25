@@ -44,7 +44,7 @@ export default {
   config: {
     disk: {},
     aws: {
-      bucket: 'gobarberpoint',
+      bucket: 'app-pentefino',
     },
   },
 } as IUploadConfig;
